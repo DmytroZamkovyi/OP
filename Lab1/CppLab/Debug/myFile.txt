@@ -1,0 +1,4 @@
+
+void f() {r = (3 + 4) * 4}
+
+<{([])}>sh avzhbxzj h(a fdlnzk)(
