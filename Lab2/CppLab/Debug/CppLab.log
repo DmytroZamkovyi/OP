@@ -1,0 +1,5 @@
+﻿  CppLab.cpp
+C:\Users\Dima\source\VS\OPlab\Lab2\CppLab\CppLab.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lib.cpp
+  Создание кода...
+  CppLab.vcxproj -> C:\Users\Dima\source\VS\OPlab\Lab2\CppLab\Debug\CppLab.exe
